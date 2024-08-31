@@ -12,4 +12,4 @@ foreach($books as $buku){
     echo "<li>$buku</li>";
 }
 echo "</ul>";
-?>
+echo "<p><strong>by: fika laura";

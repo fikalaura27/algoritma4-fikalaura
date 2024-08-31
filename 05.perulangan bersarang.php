@@ -7,3 +7,4 @@ while($i < 10){
 
     $i++;
 }
+echo "<p><strong>by: fika laura";

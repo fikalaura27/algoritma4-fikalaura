@@ -14,5 +14,6 @@ do {
     $ulangi--;
 } while ($ulangi >0);
 echo "<p><strong>by: fika laura";
-?>
+
+
 
