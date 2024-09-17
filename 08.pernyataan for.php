@@ -3,6 +3,6 @@
 for ($i = 1; $i <= 5; $i++) {
   echo "Perulangan ke-$i<hr>";
 }
-echo "<p><strong>by: fika laura";
 
+echo "<p><strong>by: fika laura";
 
